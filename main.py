@@ -87,8 +87,8 @@ def isCollision(enemyX, enemyY, bulletX, bulletY):
 
 # Score
 score = 0
-font = pygame.font.Font("freesansbold.ttf",32)
-overFont = pygame.font.Font("freesansbold.ttf",64)
+font = pygame.font.Font("FreeSansBold.ttf",32)
+overFont = pygame.font.Font("FreeSansBold.ttf",64)
 textX = 10
 textY = 10
 
